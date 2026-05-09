@@ -314,9 +314,7 @@ const App = () => {
                   <h1 className="text-[14px] font-semibold text-[#334155] leading-tight tracking-tight m-0 truncate">
                     ABB India Ltd. - AGM 2026
                   </h1>
-                  <p className="text-[11px] text-[#94A3B8] font-medium leading-tight mt-0.5 m-0 truncate">
-                    Shareholder Session — Board Presentations
-                  </p>
+                 
                 </div>
               </div>
               <div className="bg-[#1976D2] text-white px-4 py-1.5 rounded-xl text-[13px] font-semibold font-mono tracking-wide">

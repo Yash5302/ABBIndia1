@@ -40,9 +40,7 @@ export const Speakers = () => {
                     <div className="div-wrapper">
                         <p className="text-wrapper-2">ABB India Ltd. - AGM 2026</p>
                     </div>
-                    <p className="text-wrapper-3">
-                        Shareholder Session — Board Presentations
-                    </p>
+                   
                 </div>
                 <div className="export-PDD">
                     <div className="text-wrapper-4">13:16:31</div>
